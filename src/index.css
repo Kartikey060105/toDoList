@@ -1,0 +1,12 @@
+:root{
+    text-align: center;
+    font-size: xx-large;
+}
+#completed{
+    padding: 5px;
+    margin: 5px;
+}
+
+#clikToAdd{
+    margin: 20px;
+}
